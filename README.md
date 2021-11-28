@@ -1,6 +1,9 @@
 # Socket Chat
 Socket Calculator is a Server - Client program with TCP connection. Server allows multi-client with each thread.
 
+Whisper, with gray text
+Server, with yellow text
+
 ## Requirement
 
     JAVA 8
